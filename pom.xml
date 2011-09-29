@@ -4,12 +4,12 @@
 	<groupId>org.cccs.server-browser</groupId>
 	<artifactId>server-browser</artifactId>
 	<packaging>war</packaging>
-	<version>1.0.1</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>Server Browser</name>
 	<url>http://maven.apache.org</url>
 	<parent>
 		<groupId>org.cccs.build</groupId>
-		<artifactId>parent-pom</artifactId>
+		<artifactId>default-pom</artifactId>
 		<version>1.0.1-SNAPSHOT</version>
 	</parent>
 	<developers>
